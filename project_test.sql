@@ -27,6 +27,18 @@ use FirstDB
 -- https://youtu.be/Q1mtU_SoJIk?list=PLWPirh4EWFpFNzoF4EuFPWRjnTNSLyqI3
 
 
+--  T-SQL Operators
+-- https://youtu.be/vGoXZ-urrTY?list=PLWPirh4EWFpFNzoF4EuFPWRjnTNSLyqI3&t=284
+
+-- Group functions T-SQL Aggregate functions
+-- https://learn.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-ver16
+--https://youtu.be/atGUn-k-kJ8?list=PLWPirh4EWFpFNzoF4EuFPWRjnTNSLyqI3
+
+-- Group By Clause
+-- https://youtu.be/tCU65XjUV7E?list=PLWPirh4EWFpFNzoF4EuFPWRjnTNSLyqI3&t=3
+
+-- T-SQL DDL Statements
+-- https://youtu.be/GQzumF2C3Qw?list=PLWPirh4EWFpFNzoF4EuFPWRjnTNSLyqI3&t=19
 
 
 
